@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testimonial-grid/static/css/main.702a3172.css",
+    "main.js": "/testimonial-grid/static/js/main.b17097f8.js",
+    "index.html": "/testimonial-grid/index.html",
+    "static/media/bg-pattern-quotation.svg": "/testimonial-grid/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "main.702a3172.css.map": "/testimonial-grid/static/css/main.702a3172.css.map",
+    "main.b17097f8.js.map": "/testimonial-grid/static/js/main.b17097f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.702a3172.css",
+    "static/js/main.b17097f8.js"
+  ]
+}
