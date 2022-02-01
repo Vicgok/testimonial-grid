@@ -1,0 +1,47 @@
+@import './Variables';
+
+// custom profile
+.daniel {
+  color: $White;
+  background: url(../../public/assets/bg-pattern-quotation.svg) no-repeat top
+    right 10%;
+  background-color: $Moderate_violet;
+}
+
+.jonathan {
+  color: $White;
+  background-color: $Very_dark_grayish_blue;
+}
+
+.jeanette,
+.kira {
+  color: $Very_dark_blackish_blue;
+  background-color: $White;
+}
+
+.patrick {
+  color: $White;
+  background-color: $Very_dark_blackish_blue;
+}
+
+// testimonial card
+.testimonial {
+  border-radius: 10px;
+  padding: 1.563em 1.875em;
+
+  &:nth-of-type(1) {
+    grid-area: daniel;
+  }
+  &:nth-of-type(2) {
+    grid-area: jonathan;
+  }
+  &:nth-of-type(3) {
+    grid-area: jeanette;
+  }
+  &:nth-of-type(4) {
+    grid-area: patrick;
+  }
+  &:nth-of-type(5) {
+    grid-area: kira;
+  }
+}

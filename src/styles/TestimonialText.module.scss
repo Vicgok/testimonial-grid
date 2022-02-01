@@ -1,0 +1,20 @@
+@import './Variables';
+$spacer: 1em;
+// common margin
+.spacer {
+  margin-top: 1.25em;
+}
+.testimonial__text {
+  .testimonial__title {
+    font-size: 1.125rem;
+    word-spacing: 1px;
+    font-weight: $fnt-wgt-bold;
+  }
+  .testimonial__description {
+    opacity: 75%;
+
+    font-size: 0.75rem;
+    word-spacing: 1px;
+    line-height: 1.5;
+  }
+}
