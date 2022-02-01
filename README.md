@@ -37,7 +37,7 @@ Users should be able to:
 
 ### `Links`
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-testimonial-section-grid-layout-_Ie4lujQ7)
 - Live Site URL: [Live site](https://vicgok.github.io/testimonial-grid/)
 
 ## `Author`
