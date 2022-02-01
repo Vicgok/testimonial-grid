@@ -7,7 +7,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## `Table of contents`
 
-- [Overview](#overview)s
+- [Overview](#overview)
 
   - [The challenge](#the-challenge)
   - [Built with](#built-with)
@@ -38,7 +38,7 @@ Users should be able to:
 ### `Links`
 
 - Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://vicgok.github.io/testimonial-grid/)
 
 ## `Author`
 
